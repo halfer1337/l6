@@ -1,8 +1,10 @@
 .content {
     flex-grow: 1;
+    background-color: rgb(145, 136, 226);
 }
 
 .card {
+    background-color: rgb(135, 219, 194);
     margin-bottom: 20px;
 }
 .carousel-item img {
@@ -13,8 +15,10 @@
     display: block; 
     margin: 0 auto; 
     border-radius: 10px;
+    background-color: rgb(116, 73, 136);
 }
 .al {
+    background-color: rgb(81, 106, 138);
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -23,7 +27,7 @@
 }
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-    background-color: rgb(255, 187, 0);
+    background-color: rgb(4, 143, 85);
     border-radius: 50%;                    
     width: 40px;
     height: 40px;
@@ -35,15 +39,18 @@
 }
 
 #carousel {
+    background-color: rgb(173, 62, 86);
     max-height: 900px;
     overflow: hidden;
 }
 
 .carousel-item {
+    background-color: rgb(148, 23, 23);
     height: 900px;
 }
 
 .carousel-item img {
+    background-color: rgb(223, 106, 60);
     width: 100%;
     height: 100%;
     object-fit: cover;
